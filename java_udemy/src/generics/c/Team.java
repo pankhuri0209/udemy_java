@@ -1,4 +1,4 @@
-package dev.lpa;
+package generics.c;
 
 import java.util.ArrayList;
 import java.util.List;

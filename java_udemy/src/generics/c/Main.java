@@ -1,4 +1,4 @@
-package dev.lpa;
+package generics.c;
 
 interface Player {
 
